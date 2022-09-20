@@ -1,0 +1,1 @@
+//Não precisa de declarar tipo de retorno da função (ex.: fun x (): String e nem a palavra return
